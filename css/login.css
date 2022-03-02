@@ -1,0 +1,93 @@
+@media only screen and (max-width: 500px) {
+  .logo-img-top img {
+    height: 1.8rem !important;
+    margin: 0 !important;
+  }
+
+  .logo-text-top text {
+    font-size: 2rem !important;
+  }
+
+  .login-page-container h1 text {
+    font-size: 2rem !important;
+  }
+
+  .login-card {
+    margin-top: 10px;
+  }
+}
+
+
+.login-card{
+  box-shadow: 1px 1px 12px rgb(145, 150, 158);
+}
+
+h3 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+h3 span {
+  background:#edf2f7;
+  padding:0 10px;
+}
+
+i{
+  padding-right:15px;
+}
+
+.submit{
+  font-weight: bold;
+}
+
+.button1{
+  font-weight: bold;
+  margin-top:10px;
+  background: #de5246;
+}
+
+.button2{
+  padding-left:54px;
+  font-weight: bold;
+  margin-top:10px;
+    background: #3b5998;
+  }
+
+  .button3 {
+    font-weight: bold;
+    margin-top:10px;
+    background: #00acee;
+  }
+ .button4{
+   font-weight: bold;
+   margin-top:10px;
+   background:#0073b1;
+ }
+
+p{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.input-box input{
+  width:100%;
+}
+ i#pass{
+  margin-left:10px;
+  margin-top:118px;
+  position:absolute;
+}
+i#mail{
+  margin-left:10px;
+  margin-top:60px;
+  position:absolute;
+}
+
+#hide1{
+  display:none;
+}
